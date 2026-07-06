@@ -1,4 +1,3 @@
-//translated using AI
 class Solution {
 public:
     int removeCoveredIntervals(vector<vector<int>>& intervals) {
